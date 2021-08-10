@@ -24,3 +24,6 @@ Technologies, frameworks and external libraries:
 3. pysrt -- to parse .srt file
 4. nltk -- to analyze text
 5. opensubtitles.org API
+
+
+Author Iliia Berniak
