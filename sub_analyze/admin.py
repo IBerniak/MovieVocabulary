@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import SearchingRequest
+from .models import Movie
 
-admin.site.register(SearchingRequest)
+admin.site.register(Movie)

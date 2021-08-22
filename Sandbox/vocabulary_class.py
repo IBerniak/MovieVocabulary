@@ -305,7 +305,7 @@ class VocabularyOfMovie:
         return iter(self.all_words)
 
     def __repr__(self):
-        pass
+        return str(self.all_words)
 
 # TO-DO:
 # - Correct get_base_form function to receive correct base form for most words

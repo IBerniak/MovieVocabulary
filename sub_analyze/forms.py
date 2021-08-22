@@ -1,8 +1,8 @@
 from django import forms
-from .models import SearchingRequest
+from .models import Movie
 
 class SearchingForm(forms.ModelForm):
 
     class Meta:
-        model = SearchingRequest
+        model = Movie
         fields = ('title', 'year',)
